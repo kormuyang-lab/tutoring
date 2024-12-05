@@ -17,6 +17,5 @@ int main() {
         if (is_prime[i]) cout << i << ' ';
     }
     cout << '\n';
-
     return 0;
 }
