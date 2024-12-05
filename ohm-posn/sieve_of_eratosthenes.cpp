@@ -2,8 +2,7 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
     int n; cin >> n;
     bool is_prime[n + 1];
     for (int i = 0; i <= n; i++) is_prime[i] = true;

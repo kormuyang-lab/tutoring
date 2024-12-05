@@ -4,3 +4,6 @@ dream-cpe-kmutt/
 
 ohm-posn/*.out
 ohm-posn/test.cpp
+
+kevin-posn/*.out
+kevin-posn/test.cpp
